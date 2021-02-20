@@ -14,7 +14,7 @@
 
 * added an article tag to encase all 3 article to the html doc.
 
-* [used aside tag to move box to match picture probided](https://www.w3schools.com/TAGS/tag_aside.asp)
+* [Used aside tag to move box to match picture probided](https://www.w3schools.com/TAGS/tag_aside.asp)
 
 * updated title to more reflect site.
 
