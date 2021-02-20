@@ -22,6 +22,8 @@
 
 * Added titles to pictures to make them more accessable
 
+* Increased the efficiency of the CSS by consolidating the selectors and properties
+
 
 --------------------------------------------------------------------------------------------------
 
