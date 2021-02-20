@@ -28,8 +28,11 @@
 
 ##Resources used 
 -https://www.w3schools.com/TAGS/tag_aside.asp
+
 -https://www.w3schools.com/html/html5_semantic_elements.asp
+
 -https://docs.oracle.com/en/cloud/saas/marketing/cm-user/Help/Posts/Tasks/CustomizingPosts/AddingTitleTagsImages.htm
+
 
 
  
