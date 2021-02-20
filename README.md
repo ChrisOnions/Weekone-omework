@@ -2,7 +2,7 @@
 
 * Added section id = "search-engine-optimization" to make it link
 
-* labled the index.html boxes semantic lables  
+* Labled the index.html boxes semantic lables  
 	* header
 	* nac
 	* section
@@ -10,17 +10,17 @@
 	* aside
 	* footer
 
-* used picture class and removed it from css
+* Used picture class and removed it from css
 
-* added an article tag to encase all 3 article to the html doc.
+* Added an article tag to encase all 3 article to the html doc.
 
-* [Used aside tag to move box to match picture probided](https://www.w3schools.com/TAGS/tag_aside.asp)
+* [Used aside tag to move box to match picture provided](https://www.w3schools.com/TAGS/tag_aside.asp)
 
-* updated title to more reflect site.
+* Updated Head title to more reflect site.
 
-* added comments to the html
+* Added comments to the html
 
-* added titles to pictures to make them more accessable
+* Added titles to pictures to make them more accessable
 
 
 --------------------------------------------------------------------------------------------------
