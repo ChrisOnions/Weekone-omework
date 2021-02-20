@@ -1,4 +1,4 @@
-#chagnes made
+# Chagnes made
 
 -added section id = "search-engine-optimization" to make it link
 
