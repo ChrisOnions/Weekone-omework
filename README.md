@@ -1,24 +1,25 @@
-# Chagnes made
+# chagnes made
 
--added section id = "search-engine-optimization" to make it link
+* Added section id = "search-engine-optimization" to make it link
 
--labled the index.html boxes semantic lables  
-  	-header
-	-nac
-	-section
-	-article
-	-aside
-	-footer
+* labled the index.html boxes semantic lables  
+	* header
+	* nac
+	* section
+	* article
+	* aside
+	* footer
 
--used picture class and removed it from css
+* used picture class and removed it from css
 
--added an article tag to encase all 3 article to the html doc.
+* added an article tag to encase all 3 article to the html doc.
 
--updated title to more reflect site.
+* updated title to more reflect site.
 
--added comments to the html
+* added comments to the html
 
--added titles to pictures to make them more accessable
+* added titles to pictures to make them more accessable
+
 
 
 --------------------------------------------------------------------------------------------------
