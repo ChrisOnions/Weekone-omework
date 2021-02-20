@@ -1,4 +1,5 @@
 #chagnes made
+
 -added section id = "search-engine-optimization" to make it link
 
 -labled the index.html boxes semantic lables  
